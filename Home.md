@@ -1,4 +1,5 @@
-Página para el instalador y curso.
+🏠 Wiki de Documentación
 
-https://www.netacad.com/learning-collections/cisco-packet-tracer?courseLang=es-XL
-https://www.netacad.com/resources/lab-downloads?courseLang=es-XL
+Bienvenido a la Wiki del proyecto Cisco. Aquí encontrarás:
+- [Guía de instalación](Instalación)
+- [Solución de errores](Errores-Comunes)
